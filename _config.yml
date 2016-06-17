@@ -1,7 +1,7 @@
 name: Winslow Test
 favicon: null
-layout_spectrum: 0.7647754475474358
-typography_spectrum: 0.034320385893806815
+layout_spectrum: 0.98418
+typography_spectrum: 0.4884
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#e1a22e'
     - '#c7740a'
     - '#9d0301'
-  brandStrength: 0.9462174249347299
-  lightness: 0.22565618762746453
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.4938409572932869
+  rhythmicContrast: 0.75
 purpose: []
